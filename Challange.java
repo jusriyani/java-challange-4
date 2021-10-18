@@ -23,5 +23,4 @@ public class Challange {
             System.out.println("You enter the invalid score");
         }
     }
-
 }
